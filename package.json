@@ -2,7 +2,7 @@
   "name": "rikkaa-telebott",
   "version": "1.0.0",
   "description": "Simple base bot telegram using node-telegram-bot-api",
-  "main": "start.js",
+  "main": "src/system/main.js",
   "type": "commonjs",
   "scripts": {
     "start": "node --no-deprecation ./src/system/index.js"
